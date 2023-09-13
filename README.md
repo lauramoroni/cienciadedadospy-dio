@@ -9,6 +9,7 @@ Estou aprendendo a linguagem da programação Python e criei esse repositório p
 | Conhecendo a Linguagem de Progamação Python| [Introdução](https://www.notion.so/Python-ef9b9f262cca45ab84c3a09b122e3105?pvs=4)|
 | Manipulando Strings com Python| [Strings](https://www.notion.so/Manipulando-Strings-com-Python-b0e6a6944c284110b523f6ca8a476ebe) |
 | Listas e Tuplas com Python  |[Listas e Tuplas](https://www.notion.so/Listas-e-Tuplas-com-Python-dde60fa7aef84619a64c9d21a8a56642) |
+| Conjunto com Python | [Conjuntos](https://www.notion.so/Conjunto-em-Python-2483510680bc442f9602b07618500c59) |
 
 ## GitHub Stats
 ![Laura Moroni's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramoroni&show_icons=true&theme=radical)
