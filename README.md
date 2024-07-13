@@ -11,8 +11,5 @@ Estou aprendendo a linguagem da programação Python e criei esse repositório p
 | Listas e Tuplas com Python  |[Listas e Tuplas](https://www.notion.so/Listas-e-Tuplas-com-Python-dde60fa7aef84619a64c9d21a8a56642) |
 | Conjunto e Dicionário com Python | [Conjuntos e Dicionários](https://www.notion.so/Conjunto-e-Dicion-rio-em-Python-2483510680bc442f9602b07618500c59) |
 
-## GitHub Stats
-![Laura Moroni's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramoroni&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramoroni&layout=compact)](https://github.com/lauramoroni/github-readme-stats)
 ## Referências
 - [Digital Inovation Onne](https://www.dio.me/)
